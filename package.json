@@ -13,6 +13,7 @@
     "url": "https://gitlab.adullact.net/pixelhumain/GoGoCartoJs.git"
   },
   "dependencies": {
+    "hammerjs": "^2.0.8",
     "jquery": "^3.3.1"
   },
   "main": "dist/gogocarto.js",
